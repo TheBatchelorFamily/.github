@@ -41,9 +41,9 @@ This is a space to collaborate as we continue to automate our lives.
 
   This repository centralizes the storage and maintenance of the various Terraform modules used by projects within this organization.
 
-* [Megan's Portfolio Website](https://github.com/TheBatchelorFamily/Megans_Portfolio_Website)
+* [Megan's Portfolio site](https://github.com/TheBatchelorFamily/Megans_Portfolio_Website)
 
-  This is the repository that houses the main portfolio website. This website is intended to showcase Megan's talent as a front-end web developer, and in the future offer Chris a space to blog about some of his projects.
+  This is the repository that houses the main portfolio site. This site is intended to showcase Megan's talent as a frontend web developer, and in the future offer Chris a space to blog about some of his projects.
 
 ## Works in Progress
 
