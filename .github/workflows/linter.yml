@@ -44,6 +44,9 @@ jobs:
           # Full git history is needed to get a list of changed files
           fetch-depth: 0
 
+      - name: Install ginger
+        run: npm install textlint-rule-ginger
+
       ################################
       # Run Linter against code base #
       ################################
