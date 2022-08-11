@@ -16,6 +16,10 @@ This is a space to collaborate as we continue to automate our lives.
 * [Megan Batchelor](https://github.com/fiercekitti)
   
   Mother | Wife | Frontend Engineer
+  
+  I'm a budding Frontend Engineer who has been partying with websites since 1999.
+  I like picking up new technologies and code languages if they can assist me with solving of all my world's problems.
+  I have various 'old-lady' habits like crocheting, going to bed early, getting up early, and a general distain for loud music/noises.
 
 * [Chloe Batchelor](https://github.com/not_yet_active)
   
@@ -27,7 +31,7 @@ This is a space to collaborate as we continue to automate our lives.
 
 * [Maya](https://github.com/iambutacat)
 
-  Pet | fuzzball | House Cat
+  Pet | Fuzzball | House Cat
 
   I am a Bengal cat who supervises the household and ensures that my loyal subjects continue their edible tributes. If you find any typos throughout  these projects, rest assured it was my contribution. Obviously I'm not filling in my own bio... I have `people` to do that for me.
 
