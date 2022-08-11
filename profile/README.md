@@ -5,7 +5,7 @@ This is a space to collaborate as we continue to automate our lives.
 
 ## Member Profiles
 
-* [Chris Batchelor](@https://github.com/christhebatchelor)
+* [Chris Batchelor](https://github.com/christhebatchelor)
   
   Father | Husband | DevOps Engineer
 
