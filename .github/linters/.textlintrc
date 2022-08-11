@@ -5,8 +5,7 @@
   "rules": {
     "terminology": {
       "exclude": [
-        "websites",
-        "Websites"
+        ["web[- ]?site(s?)", "site$1"]
       ]
     }
   }
