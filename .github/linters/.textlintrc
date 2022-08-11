@@ -4,12 +4,10 @@
   },
   "rules": {
     "terminology": {
-      "defaultTerms": true,
       "exclude": [
         "websites",
         "Websites"
       ]
-    },
-    "ginger": true
+    }
   }
 }
