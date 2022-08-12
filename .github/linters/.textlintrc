@@ -3,14 +3,6 @@
     "comments": true
   },
   "rules": {
-    "terminology": {
-      "exclude": [
-        "web[- ]?site(s?)",
-        "websites",
-        "website",
-        "Websites",
-        "Website"
-      ]
-    }
+    "terminology": true
   }
 }

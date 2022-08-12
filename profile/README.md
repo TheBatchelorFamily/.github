@@ -12,14 +12,13 @@ This is a space to collaborate as we continue to automate our lives.
   I'm a DevOps engineer by trade who has been interested in technology since I was old enough to mash buttons.
   I'm now working towards leveraging these skills at home to bring even more technology into our increasingly high-tech lifestyle.
 
-
 * [Megan Batchelor](https://github.com/fiercekitti)
   
   Mother | Wife | Frontend Engineer
-  
-  I'm a budding Frontend Engineer who has been partying with websites since 1999.
-  I like picking up new technologies and code languages if they can assist me with solving of all my world's problems.
-  I have various 'old-lady' habits like crocheting, going to bed early, getting up early, and a general distain for loud music/noises.
+  <!-- textlint-disable -->
+  I'm a budding Frontend Engineer who has been partying with websites since AngelFire was a new kid on the block.<!-- textlint-enable -->
+  I enjoy finding ways to leverage new technologies and programming languages to solve the latest problem of the day.
+  My friends joke around that I'm like an `old-lady` as I enjoy spending time crocheting, have a general disdain for loud music, and tend to rise with the sun and follow it to bed.
 
 * [Chloe Batchelor](https://github.com/not_yet_active)
   
