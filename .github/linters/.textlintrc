@@ -3,13 +3,6 @@
     "comments": true
   },
   "rules": {
-    "terminology": {
-      "defaultTerms": true,
-      "exclude": [
-        "websites",
-        "Websites"
-      ]
-    },
-    "ginger": true
+    "terminology": true
   }
 }
