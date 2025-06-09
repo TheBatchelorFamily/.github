@@ -22,17 +22,24 @@ This is a space to collaborate as we continue to automate our lives.
 
 * [Chloe Batchelor](https://github.com/not_yet_active)
   
-  Daughter | Padawan | Can't yet read
+  Daughter | Padawan | Can read (somewhat)
 
-  I'm a small child starting Kindergarten who has not yet learned to read.
-  Obviously I am not typing this message, and it will be some time before you see any contributions from my end.
+  I'm a small child starting 3rd grade who has just learned to read.
+  Obviously, I am not typing this message, and it will be some time before you see any contributions from my end.
   For now I am primarily a source of toil but also a passion project for my loving parents.
+
+  * [TBD Batchelor](https://github.com/not_yet_active)
+  
+  Son | Fetus | Can't read (or speak)
+
+  I'm a small child.alpha currently evaluating options for his next role.
+  My notable contributions include kicking around new ideas and shaking up the status quo.
 
 * [Maya](https://github.com/iambutacat)
 
   Pet | Fuzzball | House Cat
 
-  I am a Bengal cat who supervises the household and ensures that my loyal subjects continue their edible tributes. If you find any typos throughout  these projects, rest assured it was my contribution. Obviously I'm not filling in my own bio... I have `people` to do that for me.
+  I am a Bengal cat who supervises the household and ensures that my loyal subjects continue their edible tributes. If you find any typos throughout these projects, rest assured it was my contribution. Obviously, I'm not filling in my own bio... I have `people` to do that for me.
 
 ## Finished Projects
 
@@ -46,7 +53,7 @@ This is a space to collaborate as we continue to automate our lives.
 
 * [Megan's Portfolio site](https://github.com/TheBatchelorFamily/Megans_Portfolio_Website)
 
-  This is the repository that houses the main portfolio site. This site is intended to showcase Megan's talent as a frontend web developer, and in the future offer Chris a space to blog about some of his projects.
+  This repository houses the main portfolio site. This site is intended to showcase Megan's talent as a frontend web developer, and in the future offer Chris a space to blog about some of his projects.
 
 ## Works in Progress
 
