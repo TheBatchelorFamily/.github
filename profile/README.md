@@ -28,11 +28,11 @@ This is a space to collaborate as we continue to automate our lives.
   Obviously, I am not typing this message, and it will be some time before you see any contributions from my end.
   For now I am primarily a source of toil but also a passion project for my loving parents.
 
-* [TBD Batchelor](https://github.com/not_yet_active)
+* [Finnian Batchelor](https://github.com/not_yet_active)
   
-  Son | Fetus | Can't read (or speak)
+  Son | infant | Can't read (or speak)
 
-  I'm a small child.alpha currently evaluating options for his next role.
+  I'm a helpless infant.
   My notable contributions include kicking around new ideas and shaking up the status quo.
 
 * [Maya](https://github.com/iambutacat)
